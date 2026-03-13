@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Remix: MindMate AI",
+  "description": "An AI-powered emotional support companion helping users manage stress, anxiety, and emotions through supportive conversation, mood tracking, and relaxation exercises.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
